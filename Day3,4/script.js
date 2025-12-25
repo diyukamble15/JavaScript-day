@@ -75,7 +75,7 @@ console.log(username == "javascript" && password == "js@123"); // output = true
 // console.log(name === "divya" || pass === 12345); // output = false
 
 
-// Tarniary Operator
+// Tarnary Operator
 
 // let age = 14;
 // let vote = (age >= 18) ? "Yes, you can." : "No, you cannot.";
